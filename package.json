@@ -1,5 +1,5 @@
 {
-  "name": "@metro-fs/analytics-plugin-posthog",
+  "name": "@huseinarbi/analytics-plugin-posthog",
   "version": "1.14.0",
   "description": "PostHog plugin for Analytics",
   "main": "lib/index.js",
